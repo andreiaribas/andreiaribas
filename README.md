@@ -1,9 +1,6 @@
 
 <div align="center">
   <h2>Olá, seja bem-vindo(a) ao meu perfil! 👋</h1>
-  <a href="https://github.com/andreiaribas">
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=andreiaribas&layout=compact&langs_count=6&theme=midnight-purple&bg_color=0d1117&locale=pt-br&disable_animations=true&count_private=true&include_all_commits=true&hide=issues,contribs"/>
-  </a>
   <br>
   <h3>Tecnologias que eu sei:</h3>
  <a href="#">
